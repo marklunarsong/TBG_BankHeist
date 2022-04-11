@@ -1,5 +1,7 @@
 # TBG_BankHeist
-Repository for my TBG about robbing a bank
+This is a python text-based game in which you are a leader of a crew
+who will use decisive descision making skills to see whether you succeed
+or fail robbing a bank.
 
 # How to play
 Thonny is required to play this text based game
