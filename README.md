@@ -8,5 +8,5 @@ Thonny is required to play this text based game
 
 Open the game.py file in Thonny and run the code to start the game
 
-The game will give prompts in which you will type to select the options
+The game will give prompts in which you will type to select the options<br/>
 By typing the number associated with the option, that is what will be picked
