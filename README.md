@@ -12,4 +12,4 @@ The game will give prompts in which you will type to select the options<br/>
 By typing the number associated with the option, that is what will be picked
 
 At the begining of the game you will get to choose 2 gadgets to bring on the heist,<br/>
-and 1 escape vehicle. These will determine the outcome of the story.
+1 escape vehicle, and where to enter. These will determine the outcome of the story.
