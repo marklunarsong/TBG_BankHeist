@@ -9,7 +9,4 @@ Thonny is required to play this text based game
 Open the game.py file in Thonny and run the code to start the game
 
 The game will give prompts in which you will type to select the options<br/>
-By typing the number associated with the option, that is what will be picked
-
-At the begining of the game you will get to choose 2 gadgets to bring on the heist,<br/>
-1 escape vehicle, and where to enter. These will determine the outcome of the story.
+By typing one word in lower cases it should give an answer
